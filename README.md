@@ -7,11 +7,10 @@
 <div>
   <img src="https://github.com/user-attachments/assets/47cfff04-f258-420d-a01b-9ef17ca4d934" alt="MasterHead" width=16% align="right"/>
   
-  ☁ Currently involved in various open-source projects <br>
+  ☁ Currently involved in learning... stuff <br>
   
-  🐬 Passionate about web development and innovative solutions <br>
-  
-  ⚽ Enjoy developing strategic thinking through playing chess <br>
+  🐬 Passionate about Data Structures and Artificial Intelligence <br>
+
 </div> 
 
 ## 🎧 Technologies and Tools:
