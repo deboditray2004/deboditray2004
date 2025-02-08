@@ -17,7 +17,7 @@
 ## 🎧 Technologies and Tools:
 <p align="left">
   <a >
-    <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,js,mysql,git&theme=dark&perline=16" />
+    <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,mysql,git&theme=dark&perline=16" />
   </a>
 </p>
 
