@@ -9,7 +9,7 @@
   
   ☁ Currently involved in learning... stuff <br>
   
-  🐬 Passionate about Data Structures and Artificial Intelligence <br>
+  🐬 Passionate about learning Data Structures and Algorithms <br>
 
 </div> 
 
