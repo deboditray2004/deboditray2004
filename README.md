@@ -19,12 +19,3 @@
     <img src="https://skillicons.dev/icons?i=java,c,cpp,html,css,mysql,git&theme=dark&perline=16" />
   </a>
 </p>
-
-## 💭 Languages and Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=impregnablefirewall&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false) 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=impregnablefirewall&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact) </br>
-
-## 🪽 Github Trophies:
-
-![](https://github-profile-trophy.vercel.app/?username=impregnablefirewall&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4) <br>
